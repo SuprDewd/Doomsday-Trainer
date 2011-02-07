@@ -1,0 +1,30 @@
+﻿<Window x:Class="DoomsdayTrainer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" WindowState="Maximized" WindowStyle="None" Background="#272F32" Loaded="WindowLoaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="500" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="500" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Row="1" Grid.Column="1" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label Name="lblQuestion" Foreground="#DAEAEF" HorizontalAlignment="Left" Height="30"></Label>
+            <TextBox Name="txtAnswer" HorizontalAlignment="Center" Height="23" Width="150" KeyDown="AnswerSubmitted" />
+            <TextBlock Margin="0,10,0,0" Foreground="#FF3D2E" Name="Error"></TextBlock>
+        </StackPanel>
+
+        <Canvas Grid.Row="2" Grid.Column="2">
+            <StackPanel Orientation="Horizontal">
+                <ComboBox Name="Difficulties" Width="90" Margin="5" DisplayMemberPath="Key" SelectedValuePath="Value" />
+                <Button Width="70" Margin="5" Click="NewDateClicked">New Date</Button>
+            </StackPanel>
+        </Canvas>
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+C:\Users\SuprDewd\Documents\Projects\DoomsdayTrainer\DoomsdayTrainer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SuprDewd\Documents\Projects\DoomsdayTrainer\DoomsdayTrainer\obj\x86\Debug\MainWindow.baml
+C:\Users\SuprDewd\Documents\Projects\DoomsdayTrainer\DoomsdayTrainer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\SuprDewd\Documents\Projects\DoomsdayTrainer\DoomsdayTrainer\obj\x86\Debug\App.g.cs
+C:\Users\SuprDewd\Documents\Projects\DoomsdayTrainer\DoomsdayTrainer\obj\x86\Debug\DoomsdayTrainer_MarkupCompile.cache
+C:\Users\SuprDewd\Documents\Projects\DoomsdayTrainer\DoomsdayTrainer\obj\x86\Debug\DoomsdayTrainer.g.resources
+C:\Users\SuprDewd\Documents\Projects\DoomsdayTrainer\DoomsdayTrainer\obj\x86\Debug\DoomsdayTrainer.Properties.Resources.resources
+C:\Users\SuprDewd\Documents\Projects\DoomsdayTrainer\DoomsdayTrainer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SuprDewd\Documents\Projects\DoomsdayTrainer\DoomsdayTrainer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SuprDewd\Documents\Projects\DoomsdayTrainer\DoomsdayTrainer\bin\Debug\DoomsdayTrainer.exe
+C:\Users\SuprDewd\Documents\Projects\DoomsdayTrainer\DoomsdayTrainer\bin\Debug\DoomsdayTrainer.pdb
+C:\Users\SuprDewd\Documents\Projects\DoomsdayTrainer\DoomsdayTrainer\obj\x86\Debug\DoomsdayTrainer.exe
+C:\Users\SuprDewd\Documents\Projects\DoomsdayTrainer\DoomsdayTrainer\obj\x86\Debug\DoomsdayTrainer.pdb
