@@ -65,7 +65,7 @@
     </Compile>
     <Compile Include="Date.cs" />
     <Compile Include="DoomsdayDifficulty.cs" />
-    <Compile Include="DoomsdayHelper.cs" />
+    <Compile Include="Doomsday.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
